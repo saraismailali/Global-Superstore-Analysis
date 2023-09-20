@@ -1,1 +1,2 @@
 # Global-Superstore-Analysis
+This repository hosts a comprehensive and interactive Power BI dashboard that showcases the power of data-driven decision-making. Explore insights derived from the 2016 dataset of Global Superstore, with a focus on sales analytics. The dashboard is equipped with a range of visualizations and analytics tools, allowing you to dive deep into segment sales, category performance, regional trends, and more. Discover the strategic use of ETL processes and Data Analysis Expressions (DAX) that enhance data understanding and enable dynamic visualizations. 
